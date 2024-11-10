@@ -2,7 +2,7 @@
 
 **Assignment 01 | Fall 2024**
 
-**ID : 223690813 | Name : Meaw Mallick **
+**ID : 223690813  | Name :  Meaw Mallick**
 
 | No 1 Query (as Plain Text) | CREATE TABLE DEVELOPERS (        member\_id int,        name varchar(50),        email varchar(100),        influence\_count int,        joining\_date date,        multiplier int );  |
 | :---- | :---- |
