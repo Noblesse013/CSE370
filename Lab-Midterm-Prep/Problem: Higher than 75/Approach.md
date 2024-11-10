@@ -4,11 +4,10 @@ This solution queries the `STUDENTS` table to find the names of students who sco
 
 ## Table Structure
 
-The `STUDENTS` table is described as follows:
+The `STUDENTS` table is described as follow:
 - **ID**: Unique identifier for each student.
 - **NAME**: Contains uppercase (A-Z) and lowercase (a-z) letters only.
 - **MARKS**: Represents the marks scored by each student.
-
 ## Query
 
 ```sql
@@ -43,8 +42,6 @@ Assuming the following students scored above 75:
 | 1   | Ashley  | 80    |
 | 2   | Julia   | 85    |
 | 3   | Belvet  | 90    |
-
-
 
 ```
 
