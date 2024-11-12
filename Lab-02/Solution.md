@@ -2,7 +2,6 @@
 
 **Assignment 02 | Fall 2024**
 
-**ID : 22301024 | Name : [Mehreen Mallick Fiona](mailto:mehreenmallickfiona@gmail.com)**
 
 | No 1 Query (as Plain Text) | select first\_name,last\_name,email,phone\_number,hire\_date,department\_id from employee where hire\_date \= (select max(hire\_date) from employee); |
 | :---- | :---- |
