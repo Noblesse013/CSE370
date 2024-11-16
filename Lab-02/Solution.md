@@ -10,7 +10,7 @@
 | **No 2 Query (as Plain Text)** |  select first\_name,last\_name,employee\_id,phone\_number,salary,department\_id from employee group by department\_id having min(salary); |
 | **No 2 SS (of Query & Output in Shell)** | ![][image2] |
 |  |  |
-| **No 3 Query (as Plain Text)** |  |
+| **No 3 Query (as Plain Text)** | select first_name,last_name,employee_id,comission_pct,deparment_id from employee where department_id = 'DPTOO7' AND comission_pct < ALL (select comission_pct from employee where department_id = 'DPT005'; |
 | **No 3 SS (of Query & Output in Shell)** |  |
 |  |  |
 | **No 4 Query (as Plain Text)** |  |
