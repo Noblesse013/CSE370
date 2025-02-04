@@ -1,1 +1,1 @@
-I have attached my answersheet of LabMid so that you can get idea of what of queries might come in Lab mid.
+I have completed my answersheet for the Lab Midterm so you can use it as a study guide to get an idea of the kind of questions that will be on the Lab Midterm.
