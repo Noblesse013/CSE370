@@ -1,4 +1,4 @@
-# CSE370: Relational Database Management Systems (RDBMS)
+# CSE370: Database Management Systems
 
 ## 📌 Course Overview
 CSE370 is an introductory course on **Relational Database Management Systems (RDBMS)**, focusing on database design, implementation, and optimization. The course covers
