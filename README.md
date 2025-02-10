@@ -17,7 +17,7 @@ This repository contains:
 
 - **📜 Assignments:** SQL-based problem-solving tasks
 - **🛠️ Lab Exercises:** Hands-on practice with database concepts
-- ** Sample Mid & Final question:** Check question patterns for Mid and Final
+- **✔ Sample Mid & Final question:** Check question patterns for Mid and Final
 
 
 ---
